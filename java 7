@@ -1,0 +1,46 @@
+public class MyClass {
+    public static void main(String args[]) {
+      
+      int i = 0;
+      int j = 0;
+      int k = 0;
+      int l = 0;
+      int m = 0;
+      
+      while(i<=0){
+          
+          System.out.print("*");
+          
+        i++;  
+      }
+      System.out.println();//new line;
+       while(j<=2){
+          
+          System.out.print("*");
+          
+        j++;  
+      }
+      System.out.println();//new line;
+       while(k<=4){
+          
+          System.out.print("*");
+          
+        k++;  
+      }
+      System.out.println();//new line;
+       while(l<=2){
+          
+          System.out.print("*");
+          
+        l++;  
+      }
+      System.out.println();//new line;
+       while(m<=0){
+          
+          System.out.print("*");
+          
+        m++;  
+      }
+      System.out.println();//new line;
+    }
+}
