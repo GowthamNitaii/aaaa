@@ -1,0 +1,45 @@
+public class MyClass {
+    public static void main(String args[]) {
+      int i = 0;
+      int j = 0;
+      int k = 0;
+      int l = 0;
+      int m = 0;
+      
+      while(i<=0){
+          
+          System.out.print("1");
+          
+        i++;  
+      }
+      System.out.println();//new line
+      while(j<=2){
+          
+          System.out.print("2");
+          
+        j++;  
+      }
+      System.out.println();//new line
+      while(k<=4){
+          
+          System.out.print("3");
+          
+        k++;
+      }
+      System.out.println();//new line
+      while(l<=7){
+          
+          System.out.print("4");
+          
+        l++;  
+      }
+      System.out.println();//new line
+       while(m<=9){
+          
+          System.out.print("5");
+          
+        m++;  
+      }
+      System.out.println();//new line
+    }
+}
